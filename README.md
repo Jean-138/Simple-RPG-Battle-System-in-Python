@@ -3,7 +3,7 @@
 This is a simple turn-based RPG battle system developed in Python.  
 The project was built as part of learning exercises during a programming course.
 
-## How It Works
+How It Works
 
 - The player starts at level 1 with basic stats.
 - Multiple monsters (NPCs) are generated with increasing levels.
